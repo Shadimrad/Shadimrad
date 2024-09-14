@@ -2,7 +2,10 @@
 It's me @Shadimrad
 
 
-Computer Science Student
+Computer Science Student, interned as a software engineer at:
+- LinkedIn
+- Two Sigma
+
 
 
 Curious potato
